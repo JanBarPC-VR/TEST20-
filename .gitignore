@@ -1,0 +1,8 @@
+# Ignore Unity-specific folders and files
+Library/
+Temp/
+Obj/
+Build/
+.vscode/
+.idea/
+UserSettings/
